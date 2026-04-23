@@ -51,7 +51,7 @@ I am a Computer Networks and Telecommunications Engineering student at **INSAT**
 
 ### Featured Projects
 
-- **[AI Personal Life Assistant](https://github.com/awabZemzemi)**: Architected a GraphRAG pipeline using LangGraph, Neo4j, and ChromaDB. Leveraged LLMs to transform unstructured text into structured graph nodes, accessible via a high-performance FastAPI backend.
+- **[AI Personal Life Assistant](https://github.com/awabZemzemi)**: Developed an agentic personal assistant using LangGraph for autonomous task management and context-aware organization. Integrated Neo4j and ChromaDB to build a relational knowledge graph, leveraging LLMs to extract and transform unstructured text into structured nodes via a FastAPI backend.
 - **[SentinelML](https://github.com/awabZemzemi)**: Real-time anomaly detection pipeline. Built a microservices architecture utilizing Kafka for async data streaming, MLflow for model retraining, and automated Docker deployments via Jenkins.
 - **[Blockchain Voting DApp](https://github.com/awabZemzemi)**: Secure backend architecture integrated with Ethereum smart contracts. Provisioned Azure infrastructure (networking, container registries) using Terraform, deployed on K8s via GitHub Actions.
 - **[PetSit Platform](https://github.com/awabZemzemi)**: Full-stack responsive SPA built with Angular and NestJS. Implemented RBAC, secure JWT authentication, and structured data persistence with PostgreSQL.
@@ -63,10 +63,3 @@ I am a Computer Networks and Telecommunications Engineering student at **INSAT**
 - Jenkins, Linux, Docker, Kubernetes (KodeKloud)
 
 ---
-
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=awabZemzemi&show_icons=true&theme=radical&hide_border=true&title_color=0db7ed" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awabZemzemi&layout=compact&theme=radical&hide_border=true&title_color=0db7ed" />
-</div>
