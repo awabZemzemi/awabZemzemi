@@ -51,10 +51,10 @@ I am a Computer Networks and Telecommunications Engineering student at **INSAT**
 
 ### Featured Projects
 
-- **[AI Personal Life Assistant](https://github.com/awabZemzemi)**: Developed an agentic personal assistant using LangGraph for autonomous task management and context-aware organization. Integrated Neo4j and ChromaDB to build a relational knowledge graph, leveraging LLMs to extract and transform unstructured text into structured nodes via a FastAPI backend.
-- **[SentinelML](https://github.com/awabZemzemi)**: Real-time anomaly detection pipeline. Built a microservices architecture utilizing Kafka for async data streaming, MLflow for model retraining, and automated Docker deployments via Jenkins.
+- **[AI Personal Life Assistant](https://github.com/PPPRT4/pfa})**: Developed an agentic personal assistant using LangGraph for autonomous task management and context-aware organization. Integrated Neo4j and ChromaDB to build a relational knowledge graph, leveraging LLMs to extract and transform unstructured text into structured nodes via a FastAPI backend.
+- **[SentinelML](https://github.com/orgs/SentineMl/repositories)**: Real-time anomaly detection pipeline. Built a microservices architecture utilizing Kafka for async data streaming, MLflow for model retraining, and automated Docker deployments via Jenkins.
 - **[Blockchain Voting DApp](https://github.com/awabZemzemi)**: Secure backend architecture integrated with Ethereum smart contracts. Provisioned Azure infrastructure (networking, container registries) using Terraform, deployed on K8s via GitHub Actions.
-- **[PetSit Platform](https://github.com/awabZemzemi)**: Full-stack responsive SPA built with Angular and NestJS. Implemented RBAC, secure JWT authentication, and structured data persistence with PostgreSQL.
+- **[PetSit Platform]({https://github.com/PPP-RT3-CC/PetSit)**: Full-stack responsive SPA built with Angular and NestJS. Implemented RBAC, secure JWT authentication, and structured data persistence with PostgreSQL.
 
 ---
 
